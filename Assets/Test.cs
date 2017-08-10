@@ -4,8 +4,11 @@ using UnityEngine;
 
 public class Test : MonoBehaviour {
 
+	
+	Test merge
 	// Use this for initialization
 	void Start () {
+		GetComponent<OtherComponent>
 	}
 	
 	// Update is called once per frame
